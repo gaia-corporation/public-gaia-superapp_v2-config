@@ -1,0 +1,6 @@
+{
+  "environments": {
+    "staging": "https://api.prod.gaiacorp.ai",
+    "dev": "https://api.gaiacorp.ai"
+  }
+}
